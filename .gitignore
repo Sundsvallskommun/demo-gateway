@@ -32,6 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
-# Spring
+### Spring ###
 application-default.*
+
+### Environment variables ###
+.env
 
